@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Akhilesh Chander
+I'm Akhilesh Chander,I have a passion for solving structured and unstructured data problems and building products that are smart and computational.
 
 - 🔭 I’m currently working as Senior Python Developer
 - 🌱 I’m currently learning rust 🦀
